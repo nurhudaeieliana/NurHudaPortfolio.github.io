@@ -1,11 +1,11 @@
-#NUR HUDA EIELIANA BINTI MANSOR 
+# NUR HUDA EIELIANA BINTI MANSOR 
 
-WORK OBJECTIVE
+### WORK OBJECTIVE
 
 A practical training in the field of computer and information sciences at a well-established organization in
 order to experience the workplace environment as well as for self development.
 
-COMPUTER SKILLS
+### COMPUTER SKILLS
 
 - Language : C, C++, Java, HTML, CSS, JS, SQL, PHP.
 
@@ -15,7 +15,7 @@ COMPUTER SKILLS
 
 - Technology : Internet, Mobile Computing.
 
-System Development : 
+### System Development : 
 
 - Developed a website for a bakery using HTML,CSS, JS, PHP and MySQL.
 - Developed a system appointment system using Java.
