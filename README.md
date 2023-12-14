@@ -24,5 +24,5 @@ order to experience the workplace environment as well as for self development.
 - Developed applications for a movie recommender system using Java.
   
 ### Multimedia : 
-- Make an animation for Covid-19 awareness in 2D
+- Make an animation for Covid-19 awareness in 2D (https://app.animaker.com/animo/jj6sRFTek5aONqyu/)
 - Make a poster about Covid-19
