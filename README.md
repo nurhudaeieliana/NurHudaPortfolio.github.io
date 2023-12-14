@@ -7,13 +7,13 @@ order to experience the workplace environment as well as for self development.
 
 COMPUTER SKILLS
 
-Language : C, C++, Java, HTML, CSS, JS, SQL, PHP.
+- Language : C, C++, Java, HTML, CSS, JS, SQL, PHP.
 
-Software : Words, Docs, Power Point, Animaker, Canva.
+- Software : Words, Docs, Power Point, Animaker, Canva.
 
-Hardware : Laptop, Computer, Printer.
+- Hardware : Laptop, Computer, Printer.
 
-Technology : Internet, Mobile Computing.
+- Technology : Internet, Mobile Computing.
 
 System Development : 
 
