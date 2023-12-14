@@ -2,6 +2,7 @@
 ###NUR HUDA EIELIANA BINTI MANSOR
 HP NO/ : 019-2978449
 EMAIL : 2021808668@student.uitm.edu.my
+
 ###WORK OBJECTIVE
 A practical training in the field of computer and information sciences at a well-established organization in
 order to experience the workplace environment as well as for self development.
@@ -15,6 +16,7 @@ Language : C, C++, Java, HTML, CSS, JS, SQL, PHP
 Software : Words, Docs, Power Point, Animaker, Canva.
 Hardware : Laptop, Computer, Printer.
 Technology : Internet, Mobile Computing.
+
 ###RELEVANT SKILLS
 Language proficiency : Malay, English.
 Strengths : Responsible, reliable, hardworking, positive minded, work fast, teamwork
@@ -36,6 +38,7 @@ Programming : - Object-Oriented Programming 1
 Multimedia : - Introduction to Interactive Multimedia
 Database : - Introduction to Database Management System
 Information System : - Information Systems Development
+
 ###COMPUTER PROJECTS
 System Development : - Developed a website for a bakery using HTML,CSS, JS, PHP and
 MySQL.
@@ -44,13 +47,16 @@ MySQL.
 - Developed applications for a movie recommender system using Java.
 Multimedia : - Make an animation for Covid-19 awareness in 2D
 - Make a poster about Covid-19.
+- 
 ###EXTRA CURRICULAR, ACTIVITIES & AWARDS
+
 ##UNIVERSITI TEKNOLOGI MARA (UiTM), ARAU PERLIS.
 ● Committee Member of COSMIT (Computer Science Society Club) - Secretary
 ● Emcee for the Semester Grand Meeting (SGM) Ceremony.
 ● Participated in Verbest COSMIT at Anjung Siswa, UiTM Arau, Perlis.
 ● Participated in Programme - Tuah Championship at Anjung Siswa, UiTM Arau, Perlis.
 ● Participated in Programme - We Are One Charity at Masjid Al-Ariffin, Kangar.
+
 ##SEKOLAH MENENGAH KEBANGSAAN JALAN REKO.
 2020
 ● Anugerah Pelajar Cemerlang Sijil Pelajaran Malaysia – 2A 3A- 2B+ 1C+
