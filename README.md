@@ -1,4 +1,5 @@
 # NUR HUDA EIELIANA BINTI MANSOR 
+## EMAIL : 2021808668@student.uitm.edu.my
 
 ### WORK OBJECTIVE
 
@@ -22,6 +23,6 @@ order to experience the workplace environment as well as for self development.
 - Developed a mobile application at Mit App Inventor.
 - Developed applications for a movie recommender system using Java.
   
-Multimedia : 
+### Multimedia : 
 - Make an animation for Covid-19 awareness in 2D
 - Make a poster about Covid-19
